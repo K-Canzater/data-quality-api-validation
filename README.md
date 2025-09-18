@@ -1,6 +1,4 @@
 
----
-
 # API Testing Suite
 
 A collection of API tests built with Python's `requests` library to validate CRUD operations against the JSONPlaceholder API. This project demonstrates foundational skills in API testing, including sending requests, handling responses, and validating data integrity.
