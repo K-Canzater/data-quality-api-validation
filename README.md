@@ -1,4 +1,3 @@
-Perfect. You're right. Consistency is key. Here is the API version, following the exact same format and structure as your Playwright README.
 
 ---
 
